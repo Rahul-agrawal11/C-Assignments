@@ -2,7 +2,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-internal class Program
+internal class Assignment_01
 {
     static void Main(string[] args)
     {
@@ -190,3 +190,4 @@ internal class Program
         Console.WriteLine();
     }
 }
+
