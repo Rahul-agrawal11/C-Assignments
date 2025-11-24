@@ -1,0 +1,10 @@
+E:\.Net Framework\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+E:\.Net Framework\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+E:\.Net Framework\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+E:\.Net Framework\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+E:\.Net Framework\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+E:\.Net Framework\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+E:\.Net Framework\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+E:\.Net Framework\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+E:\.Net Framework\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+E:\.Net Framework\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
