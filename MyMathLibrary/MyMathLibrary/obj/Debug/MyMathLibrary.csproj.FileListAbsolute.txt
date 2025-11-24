@@ -1,0 +1,6 @@
+E:\.Net Framework\MyMathLibrary\MyMathLibrary\bin\Debug\MyMathLibrary.dll
+E:\.Net Framework\MyMathLibrary\MyMathLibrary\bin\Debug\MyMathLibrary.pdb
+E:\.Net Framework\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.AssemblyReference.cache
+E:\.Net Framework\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.CoreCompileInputs.cache
+E:\.Net Framework\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.dll
+E:\.Net Framework\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.pdb
