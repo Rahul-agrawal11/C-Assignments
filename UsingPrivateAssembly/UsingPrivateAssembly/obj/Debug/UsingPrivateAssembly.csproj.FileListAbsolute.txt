@@ -1,0 +1,11 @@
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\bin\Debug\UsingPrivateAssembly.exe.config
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\bin\Debug\UsingPrivateAssembly.exe
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\bin\Debug\UsingPrivateAssembly.pdb
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\bin\Debug\PrivateAssembly.dll
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\bin\Debug\PrivateAssembly.pdb
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\obj\Debug\UsingPrivateAssembly.csproj.AssemblyReference.cache
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\obj\Debug\UsingPrivateAssembly.csproj.CoreCompileInputs.cache
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\obj\Debug\UsingPri.B580FB49.Up2Date
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\obj\Debug\UsingPrivateAssembly.exe
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\obj\Debug\UsingPrivateAssembly.pdb
+E:\.Net Framework\UsingPrivateAssembly\UsingPrivateAssembly\obj\Debug\UsingPrivateAssembly.exe.config
