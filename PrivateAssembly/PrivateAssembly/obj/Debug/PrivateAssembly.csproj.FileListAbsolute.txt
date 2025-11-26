@@ -1,0 +1,6 @@
+E:\.Net Framework\PrivateAssembly\PrivateAssembly\bin\Debug\PrivateAssembly.dll
+E:\.Net Framework\PrivateAssembly\PrivateAssembly\bin\Debug\PrivateAssembly.pdb
+E:\.Net Framework\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.csproj.AssemblyReference.cache
+E:\.Net Framework\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.csproj.CoreCompileInputs.cache
+E:\.Net Framework\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.dll
+E:\.Net Framework\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.pdb
