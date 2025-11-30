@@ -1,0 +1,9 @@
+E:\.Net Framework\UsingSharedLib\bin\Debug\UsingSharedLib.exe.config
+E:\.Net Framework\UsingSharedLib\bin\Debug\UsingSharedLib.exe
+E:\.Net Framework\UsingSharedLib\bin\Debug\UsingSharedLib.pdb
+E:\.Net Framework\UsingSharedLib\bin\Debug\SharedLib.dll
+E:\.Net Framework\UsingSharedLib\obj\Debug\UsingSharedLib.csproj.AssemblyReference.cache
+E:\.Net Framework\UsingSharedLib\obj\Debug\UsingSharedLib.csproj.CoreCompileInputs.cache
+E:\.Net Framework\UsingSharedLib\obj\Debug\UsingSha.2A0F4226.Up2Date
+E:\.Net Framework\UsingSharedLib\obj\Debug\UsingSharedLib.exe
+E:\.Net Framework\UsingSharedLib\obj\Debug\UsingSharedLib.pdb
