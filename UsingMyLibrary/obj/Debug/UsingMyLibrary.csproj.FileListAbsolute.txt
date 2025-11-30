@@ -1,0 +1,11 @@
+E:\.Net Framework\UsingMyLibrary\bin\Debug\UsingMyLibrary.exe.config
+E:\.Net Framework\UsingMyLibrary\bin\Debug\UsingMyLibrary.exe
+E:\.Net Framework\UsingMyLibrary\bin\Debug\UsingMyLibrary.pdb
+E:\.Net Framework\UsingMyLibrary\bin\Debug\MyLibrary.dll
+E:\.Net Framework\UsingMyLibrary\bin\Debug\MyLibrary.pdb
+E:\.Net Framework\UsingMyLibrary\obj\Debug\UsingMyLibrary.csproj.AssemblyReference.cache
+E:\.Net Framework\UsingMyLibrary\obj\Debug\UsingMyLibrary.csproj.CoreCompileInputs.cache
+E:\.Net Framework\UsingMyLibrary\obj\Debug\UsingMyL.F24271B7.Up2Date
+E:\.Net Framework\UsingMyLibrary\obj\Debug\UsingMyLibrary.exe
+E:\.Net Framework\UsingMyLibrary\obj\Debug\UsingMyLibrary.pdb
+E:\.Net Framework\UsingMyLibrary\obj\Debug\UsingMyLibrary.exe.config
