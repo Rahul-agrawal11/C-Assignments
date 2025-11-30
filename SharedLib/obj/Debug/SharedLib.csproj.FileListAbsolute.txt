@@ -1,0 +1,6 @@
+E:\.Net Framework\SharedLib\bin\Debug\SharedLib.dll
+E:\.Net Framework\SharedLib\bin\Debug\SharedLib.pdb
+E:\.Net Framework\SharedLib\obj\Debug\SharedLib.csproj.AssemblyReference.cache
+E:\.Net Framework\SharedLib\obj\Debug\SharedLib.csproj.CoreCompileInputs.cache
+E:\.Net Framework\SharedLib\obj\Debug\SharedLib.dll
+E:\.Net Framework\SharedLib\obj\Debug\SharedLib.pdb
